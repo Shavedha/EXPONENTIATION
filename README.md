@@ -26,7 +26,7 @@ exponentation()
 ```
 
 ## Output:
-![exponentiation of a number](exopo.jpeg)
+![exponentiation of a number](exopo.jpeg)up
 
 
 ## Result:
